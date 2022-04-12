@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@commitlint/cli': 16.2.3
   '@commitlint/config-conventional': 16.2.1
-  ava: 4.1.0
+  ava: 4.2.0
   husky: 7.0.4
   json-bigint: ^1.0.0
   lint-staged: 12.3.7
@@ -16,7 +16,7 @@ dependencies:
 devDependencies:
   '@commitlint/cli': 16.2.3
   '@commitlint/config-conventional': 16.2.1
-  ava: 4.1.0
+  ava: 4.2.0
   husky: 7.0.4
   lint-staged: 12.3.7
   prettier: 2.6.2
@@ -614,8 +614,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /ava/4.1.0:
-    resolution: {integrity: sha512-QD6MBWHzagAwb9vxduXzVWx6Q77DUHLxvIebSY6+enL+Ri6KzSZYj0IBOFifA26wfpJPZnWKLUh3vwx1LyVh/g==}
+  /ava/4.2.0:
+    resolution: {integrity: sha512-96N/rH2ZlBjoh18CsjH3zfo/rzukkRoqNK7R/Z3MLRrqu6cRRf+i4Zwna7ZRYEIl55yF1BKh/nSPCZWqoXfPJA==}
     engines: {node: '>=12.22 <13 || >=14.17 <15 || >=16.4 <17 || >=17'}
     hasBin: true
     peerDependencies:
