@@ -43,7 +43,7 @@
     "@commitlint/cli": "16.2.4",
     "@commitlint/config-conventional": "16.2.4",
     "ava": "4.2.0",
-    "husky": "7.0.4",
+    "husky": "8.0.0",
     "lint-staged": "12.4.1",
     "prettier": "2.6.2",
     "xo": "0.48.0"
