@@ -7,7 +7,7 @@ specifiers:
   husky: 8.0.1
   json-bigint: ^1.0.0
   lint-staged: 13.0.1
-  prettier: 2.7.0
+  prettier: 2.7.1
   xo: 0.50.0
 
 dependencies:
@@ -19,7 +19,7 @@ devDependencies:
   ava: 4.3.0
   husky: 8.0.1
   lint-staged: 13.0.1
-  prettier: 2.7.0
+  prettier: 2.7.1
   xo: 0.50.0
 
 packages:
@@ -1469,7 +1469,7 @@ packages:
       is-proto-prop: 2.0.0
     dev: true
 
-  /eslint-plugin-prettier/4.0.0_69a96037af8480945d39efca5cfc2a19:
+  /eslint-plugin-prettier/4.0.0_3c82efea95883424a9dcf6342e14d9cb:
     resolution: {integrity: sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==}
     engines: {node: '>=6.0.0'}
     peerDependencies:
@@ -1482,7 +1482,7 @@ packages:
     dependencies:
       eslint: 8.17.0
       eslint-config-prettier: 8.5.0_eslint@8.17.0
-      prettier: 2.7.0
+      prettier: 2.7.1
       prettier-linter-helpers: 1.0.0
     dev: true
 
@@ -3073,8 +3073,8 @@ packages:
       fast-diff: 1.2.0
     dev: true
 
-  /prettier/2.7.0:
-    resolution: {integrity: sha512-nwoX4GMFgxoPC6diHvSwmK/4yU8FFH3V8XWtLQrbj4IBsK2pkYhG4kf/ljF/haaZ/aii+wNJqISrCDPgxGWDVQ==}
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -3829,7 +3829,7 @@ packages:
       eslint-plugin-import: 2.26.0_56da04d92360a4c2aa5f42d3e398bcf2
       eslint-plugin-n: 15.2.2_eslint@8.17.0
       eslint-plugin-no-use-extend-native: 0.5.0
-      eslint-plugin-prettier: 4.0.0_69a96037af8480945d39efca5cfc2a19
+      eslint-plugin-prettier: 4.0.0_3c82efea95883424a9dcf6342e14d9cb
       eslint-plugin-unicorn: 42.0.0_eslint@8.17.0
       esm-utils: 4.0.0
       find-cache-dir: 3.3.2
@@ -3843,7 +3843,7 @@ packages:
       meow: 10.1.2
       micromatch: 4.0.5
       open-editor: 4.0.0
-      prettier: 2.7.0
+      prettier: 2.7.1
       semver: 7.3.7
       slash: 4.0.0
       to-absolute-glob: 2.0.2
