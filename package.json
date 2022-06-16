@@ -45,7 +45,7 @@
     "ava": "4.3.0",
     "husky": "8.0.1",
     "lint-staged": "13.0.1",
-    "prettier": "2.7.0",
+    "prettier": "2.7.1",
     "xo": "0.50.0"
   },
   "lint-staged": {
